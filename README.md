@@ -1,4 +1,13 @@
 # The Journey to Mindfulness: Our UX Design Project
+
+UX Project Design Deliverables Slides: 
+[UX Design Project Deliverables.pdf](https://github.com/user-attachments/files/17840606/UX.Design.Project.Deliverables.pdf)
+
+UX Project Design Final Presentation Slides: 
+[_UX Design Project Final Presentation.pdf](https://github.com/user-attachments/files/17840614/_UX.Design.Project.Final.Presentation.pdf)
+
+
+Presentation Video: 
 **
 https://www.dropbox.com/scl/fi/dwqjgimu18rjbri9al8nz/UX-Design-Project-Video.MOV?rlkey=tg344ctzmoywa8yj0iqn8k2vl&st=py10d522&dl=0 **
 
