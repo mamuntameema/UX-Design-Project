@@ -2,7 +2,7 @@
 **
 https://www.dropbox.com/scl/fi/dwqjgimu18rjbri9al8nz/UX-Design-Project-Video.MOV?rlkey=tg344ctzmoywa8yj0iqn8k2vl&st=py10d522&dl=0 **
 
--Collaborated with a team to design a mental health and mindfulness app through six phases: scoping, research, analysis, ideation, design, and validation. Tools used: Figma, Axure, Xtensio, draw.io. 
+-Collaborated with a team to design a mental health and mindfulness app through six phases: scoping, research, analysis, ideation, design, and validation. 
 
 -Conducted user research (5 interviews, 20+ survey responses) to identify key user clusters, informing persona development, navigation, and user flow
 
